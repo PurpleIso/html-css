@@ -1,3 +1,6 @@
+
+
+
 body{
     background-color: #333300;
     color: #ffc90e;
@@ -7,6 +10,11 @@ body{
           padding: 30px;
           text-align: center;
     display: block;margin-left: auto;margin-right: auto;
+   .flex-container {
+    display: flex; margin-left: auto;margin-right: auto;
+   }
+   
+     
 
 
 
