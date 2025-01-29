@@ -1,6 +1,11 @@
 body{
     background-color: #333300;
-    color: #ffc90e; font-family: Tahoma;  font-size: 100%;  border: 2px solid rgb(255, 255, 255); padding: 30px;text-align: center;
+    color: #ffc90e;
+     font-family: Tahoma;
+       font-size: 100%;
+         border: 2px solid rgb(255, 255, 255);
+          padding: 30px;
+          text-align: center;
     display: block;margin-left: auto;margin-right: auto;
 
 
